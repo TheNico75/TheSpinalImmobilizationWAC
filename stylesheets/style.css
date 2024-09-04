@@ -49,12 +49,12 @@ header h1{
 
 header h1 span{
   display: inline;
-  color: #C1D0DF;
+  color: #FFFFFF;
 }
 
 header span{
   display: block;
-  color: #C1D0DF;
+  color: #FFFFFF;
   font-weight: 300;
   margin-bottom: 1.6em
 }
