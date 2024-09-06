@@ -110,6 +110,10 @@ article {
   padding: 1em 0;
 }
 
+figcaption{
+  text-align: center;
+}
+
 footer {
   background: #021D55;
   color: #fff;
